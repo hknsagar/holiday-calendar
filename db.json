@@ -1,4 +1,9 @@
 {
+  "holidays": [
+     { "id": 1, "name": "Makara Sankranti", "month": "Jan", "date": "Makara Sankranti", "days": "1 day"},
+    { "id": 2, "name": "Republic Day", "month": "Feb", "date": "Makara Sankranti", "days": "1 day"},
+    { "id": 3, "name": "Mahashivarathri", "month": "Mar", "date": "Makara Sankranti", "days": "1 day"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
