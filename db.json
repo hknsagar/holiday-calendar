@@ -7,12 +7,12 @@
     { "id": 3, "name": "Deepavali", "month": "Nov", "date": "12-12-1212", "days": "1 day"}
   ],
   "recurring_offs": [
-    {"id": 1, "off_day": "Sunday", "start_date": "12-1-2020", "end_date": "12-1-2020"},
+    {"id": 1, "off_day": "Sunday", "start_date": "12-1-2020", "end_date": "12-1-2020"}
   ],
   "monthly_data": 
   [
     {"month": "Jan", "days_count": "2 days"},
-    {"month": "Feb", "days_count": "2 days"},
+    {"month": "Feb", "days_count": "2 days"}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
