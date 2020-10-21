@@ -6,6 +6,24 @@
     { "id": 3, "name": "Mahashivarathri", "month": "Mar", "date": "12-12-1212", "days": "1 day"},
     { "id": 3, "name": "Deepavali", "month": "Nov", "date": "12-12-1212", "days": "1 day"}
   ],
+  "recurring_offs": [
+    {"id": 1, "off_day": "Sunday", "start_date": "12-1-2020", "end_date": "12-1-2020"},
+  ],
+  "monthly_data": 
+  [
+    {"month": "Jan", "days_count": "2 days", "days": 
+      [
+        {"day": "Sunday", "date": "12-12-12"},
+        {"day": "Monday", "date": "12-12-12"},
+      ]
+    },
+    {"month": "Feb", "days_count": "2 days", "days": 
+      [
+        {"day": "Sunday", "date": "12-12-12"},
+        {"day": "Monday", "date": "12-12-12"},
+      ]
+    },
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
