@@ -1,6 +1,7 @@
 {
   "calendar_holidays": [
-    "holidays": [
+    {
+      "holidays": [
       { "id": 1, "name": "Makara Sankranti", "month": "Jan", "date": "12-12-1212", "days": "1 day"},
       { "id": 2, "name": "Republic Day", "month": "Feb", "date": "12-12-1212", "days": "1 day"},
       { "id": 3, "name": "Mahashivarathri", "month": "Mar", "date": "12-12-1212", "days": "1 day"},
@@ -25,13 +26,7 @@
           ]
         },
       ],
-      
-      ],
-        { "id": 1, "name": "Makara Sankranti", "month": "Jan", "date": "12-12-1212", "days": "1 day"},
-        { "id": 2, "name": "Republic Day", "month": "Feb", "date": "12-12-1212", "days": "1 day"},
-        { "id": 3, "name": "Mahashivarathri", "month": "Mar", "date": "12-12-1212", "days": "1 day"},
-        { "id": 3, "name": "Deepavali", "month": "Nov", "date": "12-12-1212", "days": "1 day"}
-    ]
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
