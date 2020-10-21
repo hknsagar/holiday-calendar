@@ -1,6 +1,5 @@
 {
-  "holidays": 
-  [
+  "holidays": [
     { "id": 1, "name": "Makara Sankranti", "month": "Jan", "date": "12-12-1212", "days": "1 day"},
     { "id": 2, "name": "Republic Day", "month": "Feb", "date": "12-12-1212", "days": "1 day"},
     { "id": 3, "name": "Mahashivarathri", "month": "Mar", "date": "12-12-1212", "days": "1 day"},
@@ -9,8 +8,7 @@
   "recurring_offs": [
     {"id": 1, "off_day": "Sunday", "start_date": "12-1-2020", "end_date": "12-1-2020"}
   ],
-  "monthly_data": 
-  [
+  "monthly_data": [
     {"id": 1, "month": "Jan", "days_count": "2 days"},
     {"id": 2, "month": "Feb", "days_count": "2 days"}
   ],
