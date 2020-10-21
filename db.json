@@ -8,6 +8,7 @@
       { "id": 3, "name": "Deepavali", "month": "Nov", "date": "12-12-1212", "days": "1 day"}
     ],
     "recurring_offs": [
+      {
       "off_days": [
         {"day": "Sunday", "start_date": "12-12-12", "end_date": "12-12-12"},
         {"day": "Monday", "start_date": "12-12-12", "end_date": "12-12-12"},
@@ -26,6 +27,7 @@
           ]
         },
       ],
+      }
     }
   ],
   "posts": [
