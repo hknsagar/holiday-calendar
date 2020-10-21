@@ -11,5 +11,5 @@
   "monthly_data": [
     {"id": 1, "month": "Jan", "days_count": "2 days"},
     {"id": 2, "month": "Feb", "days_count": "2 days"}
-  ],
+  ]
 }
