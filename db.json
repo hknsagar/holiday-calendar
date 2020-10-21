@@ -11,8 +11,8 @@
   ],
   "monthly_data": 
   [
-    {"month": "Jan", "days_count": "2 days"},
-    {"month": "Feb", "days_count": "2 days"}
+    {"id": 1, "month": "Jan", "days_count": "2 days"},
+    {"id": 2, "month": "Feb", "days_count": "2 days"}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
