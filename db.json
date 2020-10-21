@@ -11,18 +11,8 @@
   ],
   "monthly_data": 
   [
-    {"month": "Jan", "days_count": "2 days", "days": 
-      [
-        {"day": "Sunday", "date": "12-12-12"},
-        {"day": "Monday", "date": "12-12-12"},
-      ]
-    },
-    {"month": "Feb", "days_count": "2 days", "days": 
-      [
-        {"day": "Sunday", "date": "12-12-12"},
-        {"day": "Monday", "date": "12-12-12"},
-      ]
-    },
+    {"month": "Jan", "days_count": "2 days"},
+    {"month": "Feb", "days_count": "2 days"},
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
