@@ -1,5 +1,5 @@
 {
-  "calendar_holidays": 
+  "holidays": 
   [
     { "id": 1, "name": "Makara Sankranti", "month": "Jan", "date": "12-12-1212", "days": "1 day"},
     { "id": 2, "name": "Republic Day", "month": "Feb", "date": "12-12-1212", "days": "1 day"},
